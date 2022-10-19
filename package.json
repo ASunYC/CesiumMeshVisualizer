@@ -4,7 +4,7 @@
   "description": "Make you can use three.js geometry in Cesium,and use mesh,geometry,material like three.js to manage renderable object in Cesium.",
   "main": "dist/CesiumMeshVisualizer.js",
   "module": "SourceES6/Main.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node bundle.js"
